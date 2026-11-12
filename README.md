@@ -3,7 +3,7 @@
 **Mitigating Bill Shock Through AI-Driven Proactive Budgeting and Conversational Energy Analytics**
 
 **Team Name:** Ohm My Grid  
-**Members:** Jaeda Marthena Iral, Carl Benedict Enriquez, Jacob Antonio Uzel, Hector Escobido, Lenard Cato Narvaza  
+**Members:** Jaeda Marthena Iral, Carl Benedict Enriquez, Jacob Antonio, Uzel Hector Escobido, Lenard Cato Narvaza  
 
 ---
 
