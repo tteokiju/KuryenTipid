@@ -5,8 +5,6 @@
 **Team Name:** Ohm My Grid  
 **Members:** Jaeda Marthena Iral, Carl Benedict Enriquez, Jacob Antonio Uzel, Hector Escobido, Lenard Cato Narvaza  
 
-*Note: This project is based on the proposal detailed in the "MERALCO Hackathon.pdf" document.*
-
 ---
 
 ## 📖 About the App
